@@ -9,7 +9,7 @@
             width="35%"
         >
         <h3>
-            Hey there 👋, I'm <strong>Andre</strong>
+            Hi there 👋, I'm <strong>Andre</strong>
         </h3>
     </div>
     <div class="introduction" align="center">
