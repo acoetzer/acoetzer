@@ -3,11 +3,13 @@
         <h3>
             Welcome to that developers page, where going above and beyond is just the beginning!
         </h3>
-        <img 
+        <!-- <img 
             src="./assets/profileImage.png" 
             alt="Vector illustration of a toy rocket flying into space with a $5 price tag still attacted by a string"
             width="35%"
-        >
+        > -->
+        <img src="./assets/cherrydrop.gif" 
+        alt="My first pixil art animation of a cherry drop and being swallowed by its shadow and looping over again">
         <h3>
             Hi there 👋, I'm <strong>Andre</strong>
         </h3>
